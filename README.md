@@ -1,0 +1,2 @@
+# SOMNet
+Self Organinzing Maps
